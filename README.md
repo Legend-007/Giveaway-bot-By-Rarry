@@ -3,8 +3,8 @@
 **IN CONFIG.JSON DO NOT CHANGE ANY VARIABLE THE everyoneMention VARIABLE IS FOR THE EVERYONE MENTION WHEN A NEW GIVEAWAY OCCURS AND EVERYTHING ELSE IS SELF EPLAINATORY JUST CHANGE THE VALUES 
 INSIDE "" TO MAKE YOUR BOT FUNCTION PROPERLY!**
 # Links
-- 🔗 [Youtube Channel](https://www.youtube.com/channel/UCF9E-xef9jL9QgziZRDHKKQ)
-- [Support Server Link](https://discord.gg/REAW5VM)
+- 🔗 [Youtube Channel](https://www.youtube.com/channel/UCT_CM1zEg-zYq-nl1xHEQTg)
+- [Support Server Link](https://discord.gg/rctZpvtJtf)
 # Copyright 
 Copyright 2020 © All RIghts are Reserved | If you are using any part of code please give me credits for the same. Thanks
 
